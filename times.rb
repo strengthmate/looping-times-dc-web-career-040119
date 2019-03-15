@@ -1,6 +1,6 @@
 def using_times (looping_string)
   7.times do
-    puts looping_string
+    print looping_string
   end
 end
 
