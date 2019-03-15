@@ -1,4 +1,5 @@
-def using_times (looping)
+def using_times
+  w = 
   7.times do
     puts looping
   end
