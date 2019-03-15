@@ -1,4 +1,4 @@
-def using_times ()
+def using_times (looping_string)
   
 end
 
